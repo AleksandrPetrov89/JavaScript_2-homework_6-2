@@ -1,1 +1,1 @@
-import orderByProps from './js/app.js';
+import specialAttacks from './js/app.js';
